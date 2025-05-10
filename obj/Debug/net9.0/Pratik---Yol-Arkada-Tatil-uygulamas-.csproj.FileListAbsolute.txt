@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\bin\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.exe
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\bin\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.deps.json
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\bin\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\bin\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.dll
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\bin\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.pdb
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.dll
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\refint\Pratik---Yol-Arkada-Tatil-uygulamas-.dll
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.pdb
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\Pratik---Yol-Arkada-Tatil-uygulamas-.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Pratik---Yol-Arkada-Tatil-uygulamas-\obj\Debug\net9.0\ref\Pratik---Yol-Arkada-Tatil-uygulamas-.dll

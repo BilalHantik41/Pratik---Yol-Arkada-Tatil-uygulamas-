@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pratik---Yol-Arkada-Tatil-uygulamas-/1.0.0": {
+        "runtime": {
+          "Pratik---Yol-Arkada-Tatil-uygulamas-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pratik---Yol-Arkada-Tatil-uygulamas-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
