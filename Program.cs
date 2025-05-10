@@ -39,7 +39,7 @@ namespace YolArkadasım
                 secim = Console.ReadLine()!.Trim().ToLower();
                 if (secim == "bodrum" || secim == "marmaris" || secim == "cesme")
                     break;
-                Console.WriteLine("⚠️ Geçersiz seçim, tekrar deneyin.\n");
+                Console.WriteLine(" Geçersiz seçim, tekrar deneyin.\n");
             }
 
             // Paket fiyatını belirle
